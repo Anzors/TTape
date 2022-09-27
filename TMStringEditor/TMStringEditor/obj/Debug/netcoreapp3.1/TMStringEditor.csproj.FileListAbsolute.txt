@@ -1,0 +1,14 @@
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\bin\Debug\netcoreapp3.1\TMStringEditor.exe
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\bin\Debug\netcoreapp3.1\TMStringEditor.deps.json
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\bin\Debug\netcoreapp3.1\TMStringEditor.runtimeconfig.json
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\bin\Debug\netcoreapp3.1\TMStringEditor.runtimeconfig.dev.json
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\bin\Debug\netcoreapp3.1\TMStringEditor.dll
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\bin\Debug\netcoreapp3.1\TMStringEditor.pdb
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.csproj.AssemblyReference.cache
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.AssemblyInfoInputs.cache
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.AssemblyInfo.cs
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.csproj.CoreCompileInputs.cache
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.dll
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.pdb
+C:\Users\anzor\source\repos\TMStringEditor\TMStringEditor\obj\Debug\netcoreapp3.1\TMStringEditor.genruntimeconfig.cache
